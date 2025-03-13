@@ -1,2 +1,2 @@
+!lib              #include lib alone
 *                 # Exclude everything
-!lib              #include lib alone 
