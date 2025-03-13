@@ -1,0 +1,2 @@
+*                 # Exclude everything
+!lib              #include lib alone 
